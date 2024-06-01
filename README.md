@@ -29,4 +29,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok2487&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok2487&theme=radical&hide=php,html,Jupyter%20Notebook)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 #
