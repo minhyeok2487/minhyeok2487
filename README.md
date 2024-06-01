@@ -2,6 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer+MH)](https://git.io/typing-svg)
 
 
+### 🗃 Projects
+
+<div align="left">
+  <a href="https://github.com/minhyeok2487/LostarktTodoBackend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok2487&repo=LostarktTodoBackend&theme=react&hide_border=true&show_icons=false" alt="LostarktTodoBackend" /></a>
+    <a href="https://github.com/minhyeok2487/LoatodoFrontWithTs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok2487&repo=LoatodoFrontWithTs&theme=react&hide_border=true&show_icons=false" alt="LoatodoFrontWithTs" /></a>
+</div>
+
 #
 
 ### 🧰 Languages and Tools
